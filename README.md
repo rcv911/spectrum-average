@@ -20,9 +20,8 @@ Spectrum has fluctuations of 13-40 Hz, so you can see [betta waves.](https://en.
 
 ## Learn more
 
-- [Wiki](https://en.wikipedia.org/wiki/Electroencephalography)
-- You can use [scipy.signal.periodogram](https://docs.scipy.org/doc/scipy-0.13.0/reference/generated/scipy.signal.periodogram.html#scipy-signal-periodogram)
-
+- [Wiki EEG](https://en.wikipedia.org/wiki/Electroencephalography)
+- [Wiki Spectrum](https://en.wikipedia.org/wiki/Spectrum)
 ## Installation
 
 You can use [Python](https://www.python.org/) with data package: [Anaconda](https://www.anaconda.com/) or [Miniconda](https://conda.io/miniconda).
