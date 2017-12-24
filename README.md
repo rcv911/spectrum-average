@@ -12,7 +12,7 @@ estimating quickly.
 
 ## Results
 
-Here's EEG spectrum mean of 84 records each channels. Now it's good data for analysis. 
+Here's EEG spectrum mean of 84 records each channels. Now it's good data for diagnosis. 
 
 ![](images/spectrum_average_eeg.png)
 
